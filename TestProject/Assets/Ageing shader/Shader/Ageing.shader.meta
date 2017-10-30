@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0fbc22685960e540ae70de122958862
+timeCreated: 1454775973
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 3383730c6ed069443bc976c0481c5725, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: 6f51364f0011ef648bb79b6d8736bd03, type: 3}
+  - _Trans_Map: {fileID: 2800000, guid: 2870c427d3463f142bf713d568a6919b, type: 3}
+  - _Diffuse_Old: {fileID: 2800000, guid: 916cc8427bc1fec46b96a39e5a862ef3, type: 3}
+  - _Normal_Old: {fileID: 2800000, guid: 877044d8f71117a49992822bf8626b0d, type: 3}
+  - _Gloss_New: {fileID: 2800000, guid: 01340538d4e820843b458bfd85fc6679, type: 3}
+  - _Gloss_Old: {fileID: 2800000, guid: 7253007a1d5788b43a5672eca725b99d, type: 3}
+  - _AO_New: {fileID: 2800000, guid: 20f012eab9dc2584a98b22724b5a0cfa, type: 3}
+  - _AO_Old: {fileID: 2800000, guid: 727255fa7175d784989efbc3394876c7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
