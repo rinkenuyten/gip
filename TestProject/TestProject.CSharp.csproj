@@ -79,9 +79,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Ageing shader\Script\Ageing.cs" />
+    <Compile Include="Assets\KeyboardOrbit.cs" />
     <Compile Include="Assets\MeshMelter\Demo\Scripts\Rotate.cs" />
     <Compile Include="Assets\MeshMelter\Melter.cs" />
     <Compile Include="Assets\MeshMorpher.cs" />
+    <Compile Include="Assets\move.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\EditorLabel.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\EnableCameraDepthInForward.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />

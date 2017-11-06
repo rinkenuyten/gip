@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: WoodLight_COLOR
-  m_Shader: {fileID: 4800000, guid: fec11ac01afa23945b69790d076b3694, type: 3}
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -35,7 +35,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve:
-        m_Texture: {fileID: 2800000, guid: 09a03202a5a27d44b8e56df88dc849f8, type: 3}
+        m_Texture: {fileID: 2800000, guid: ed0ded231d2bb7e41b592cc80dadf5ab, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -66,12 +66,6 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Melt: 1
-    - _MeltCurve: 2.3
-    - _MeltDistance: 1
-    - _MeltGlossiness: 0
-    - _MeltMetallic: 0
-    - _MeltY: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -79,16 +73,14 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Tess: 10
     - _UVSec: 0
     - _ZWrite: 1
-    - _dissolve_amount: 0.13
+    - _dissolve_amount: 0.3
     - _emissiveamount: 2.63
     - _fringe: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _ColorBottom: {r: 0.7352941, g: 0.6937716, b: 0.56228375, a: 1}
+    - _ColorBottom: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MeltColor: {r: 1, g: 1, b: 1, a: 1}
-    - _colorTop: {r: 1, g: 0.5399061, b: 0, a: 1}
-    - _glow_color: {r: 0, g: 0, b: 0, a: 1}
+    - _colorTop: {r: 0.78039217, g: 0.64705884, b: 0.5529412, a: 1}
+    - _glow_color: {r: 0.28627452, g: 0.1764706, b: 0.12156863, a: 1}

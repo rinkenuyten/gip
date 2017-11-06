@@ -35,7 +35,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve:
-        m_Texture: {fileID: 2800000, guid: 36cf8eab4ebc4de4c866e4d02d61d7cd, type: 3}
+        m_Texture: {fileID: 2800000, guid: ed0ded231d2bb7e41b592cc80dadf5ab, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -75,7 +75,7 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _dissolve_amount: 0.16
+    - _dissolve_amount: 0.26
     - _emissiveamount: 3.3
     - _fringe: 1
     m_Colors:

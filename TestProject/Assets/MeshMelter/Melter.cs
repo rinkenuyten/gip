@@ -132,7 +132,7 @@ namespace MeshMelter {
 				SetShapeParamater();
 				if (elapsedTime >= duration) {
 					// if the elased time has reached duration we are done
-					active = false;
+					//active = false;
 					if (EndCallback != null) EndCallback(gameObject);
 				}
 			}
@@ -270,6 +270,11 @@ namespace MeshMelter {
 			}
 		}
 		
+        public void setMeltinglvl(float lvl)
+        {
+            meltingLevel = lvl;
+        }
+
 		// set all shader paramaters not changing over time and depending on geometry
 		private void SetGeometryParameters() {
 			// north reference, to generate radial noise
